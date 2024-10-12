@@ -6,7 +6,7 @@ A classification of interrupts.
   - 开机
 - 来自定时器的
   - 心跳
-- 来自中央处理单元的
+- 来自中央处理单元自身的
   - 中止
   - 缺页
   - 系统调用
