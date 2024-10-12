@@ -1,7 +1,7 @@
 # Readme
 A classification of interrupts.
 
-处理系统需要处理的中断：
+处理系统需要处理的中断包括但不限于：
 - 来自电源的
   - 开机
 - 来自中央处理单元的
