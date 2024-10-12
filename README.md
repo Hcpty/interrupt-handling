@@ -2,8 +2,8 @@
 A classification of interrupts.
 
 - 来自电源的
-  - 通电
-  - 断电
+  - 开机
+  - 关机
 - 来自外设的
   - 心跳
   - 中断
