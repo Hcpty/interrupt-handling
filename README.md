@@ -1,7 +1,7 @@
 # Readme
 A classification of interrupts.
 
-Interrupt Handlers需要处理的中断包括但不限于：
+Shared Interrupt Handlers需要处理的中断包括但不限于：
 - 来自电源的
   - 开机
 - 来自中央处理单元的
