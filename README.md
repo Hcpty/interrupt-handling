@@ -7,7 +7,7 @@ A classification of interrupts.
 - 来自中央处理单元的
   - 中止
   - 缺页
-  - 系统调用
+  - 陷阱
 - 来自定时器的
   - 心跳
 - 来自外设的
