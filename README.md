@@ -1,8 +1,6 @@
 # Readme
 A classification of Shared Interrupts.
 
-### Contents
-
 Shared Interrupt Handlers要处理的Interrupts包括但不限于：
 - 来自电源的Interrupts
   - 启动
