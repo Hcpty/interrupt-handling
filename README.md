@@ -2,13 +2,13 @@
 A classification of Interrupts.
 
 Shared Interrupt Handlers要处理的Interrupts包括但不限于：
-- 来自电源的
+- 来自电源的Interrupts
   - 启动
-- 来自中央处理单元的
+- 来自中央处理单元的Interrupts
   - 中止
   - 缺页
   - 陷阱
-- 来自定时器的
+- 来自定时器的Interrupts
   - 心跳
-- 来自外设的
+- 来自外设的Interrupts
   - 中断
