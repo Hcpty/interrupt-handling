@@ -12,3 +12,6 @@ Shared Interrupt Handlers要处理的Interrupts包括但不限于：
   - 心跳
 - 来自外设的Interrupts
   - 中断
+
+Credits:
+- [Interrupt - Wikipedia](https://www.wikipedia.org/wiki/Interrupt)
