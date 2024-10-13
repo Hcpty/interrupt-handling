@@ -1,5 +1,5 @@
 # Readme
-A classification of Interrupts.
+A classification of Shared Interrupts.
 
 Shared Interrupt Handlers要处理的Interrupts包括但不限于：
 - 来自电源的Interrupts
