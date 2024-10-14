@@ -4,7 +4,7 @@ A classification of Interrupts.
 Interrupt Handlers要处理的Interrupts例如：
 - 来自电源的Interrupts
   - 启动
-- 来自中央处理单元的Interrupts
+- 来自处理器的Interrupts
   - 中止
   - 缺页
   - 系统调用
