@@ -14,4 +14,4 @@ Interrupt Handlers要处理的Interrupts例如：
   - 中断
 
 ### Credits
-- [Interrupt - Wikipedia](https://www.wikipedia.org/wiki/Interrupt)
+- [Interrupt - Wikipedia](https://en.wikipedia.org/wiki/Interrupt)
