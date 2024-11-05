@@ -1,5 +1,5 @@
 # Readme
-A classification of Interrupts.
+A note about Interrupts.
 
 ### Interrupts
 
