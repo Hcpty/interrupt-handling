@@ -16,4 +16,3 @@ A note about Interrupts.
 
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
-- [Interrupt - Wikipedia](https://en.wikipedia.org/wiki/Interrupt)
