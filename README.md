@@ -1,7 +1,7 @@
 # Readme
-A note about Interrupts.
+A note about Interrupt Handling.
 
-### Interrupts
+### Interrupt Handling
 - 来自电源的Interrupts
   - 启动
   - 停止
@@ -15,4 +15,4 @@ A note about Interrupts.
   - 中断
 
 ### Credits
-- Computer Systems: A Programmer's Perspective, Third Edition
+- Computer Systems: A Programmer's Perspective, Third Edition - Randal E. Bryant and David R. O'Hallaron
