@@ -10,7 +10,7 @@ A note about Interrupt Handling.
   - 缺页
   - 系统调用
 - 来自定时器的Interrupts
-  - 心跳
+  - 时钟
 - 来自外设的Interrupts
   - 中断
 
