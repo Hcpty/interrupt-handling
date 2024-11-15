@@ -1,5 +1,4 @@
-# Readme
-A note about Interrupt Handling.
+# Interrupt Handling
 
 ## Interrupt Handling
 - 来自电源的Interrupts
